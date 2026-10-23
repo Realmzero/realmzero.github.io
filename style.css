@@ -7,4 +7,5 @@ p,li{color:var(--ink)}.mute{color:var(--mute)}a{color:#b79cff}
 .card{background:var(--card);border:1px solid #232742;border-radius:16px;padding:22px 24px;margin:18px 0}
 .btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:12px 20px;border-radius:12px;font-weight:600}
 footer{margin-top:60px;color:var(--mute);font-size:14px;border-top:1px solid #232742;padding-top:18px}
+footer .legal{margin:10px 0 0;font-size:12px;line-height:1.5;opacity:.75}
 ul{padding-left:22px}code{background:#1b1f33;padding:2px 6px;border-radius:6px}
